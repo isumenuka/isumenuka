@@ -71,24 +71,6 @@ const enuka = {
 
 
 <div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=isumenuka&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&ring_color=58A6FF">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=isumenuka&show_icons=true&theme=default&hide_border=false">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=isumenuka&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumenuka&layout=compact&langs_count=8&theme=default&hide_border=false">
-  </picture>
-
-</div>
-
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com?user=isumenuka&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=45,0D1117,1E3A8A&ring=F97316&fire=F97316&currStreakLabel=58A6FF&sideNums=FFFFFF&sideLabels=58A6FF&dates=94A3B8" alt="GitHub Streak" 
-
-</div>
 
 <div align="center">
   <picture>
