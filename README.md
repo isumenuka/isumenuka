@@ -86,8 +86,7 @@ const enuka = {
 <div align="center">
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=isumenuka&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF">
-    <img src="https://streak-stats.demolab.com?user=isumenuka&theme=default&hide_border=false" alt="GitHub Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=isumenuka&theme=dark&hide_border=true&background=45,0D1117,1E3A8A&ring=F97316&fire=F97316&currStreakLabel=3B82F6&sideNums=FFFFFF&sideLabels=94A3B8&dates=94A3B8">    <img src="https://streak-stats.demolab.com?user=isumenuka&theme=default&hide_border=false" alt="GitHub Streak">
   </picture>
 
 </div>
