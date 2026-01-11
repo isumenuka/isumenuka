@@ -67,23 +67,20 @@ const enuka = {
 
 ---
 
-### 📊 Github Statics
-
-
-<div align="center">
+### 📊 Github Statistics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=isumenuka&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=58A6FF">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=isumenuka&theme=github-light&hide_border=false">
-  </picture>
-</div>
+
+#### 🎨 3D Contribution Graph
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 #### 🔥 Streak Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isumenuka&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
-  </div>
-  
+</div>
+
+</div>
 
 ---
 
@@ -101,6 +98,7 @@ const enuka = {
 *Proud recipient of Quickdraw, Pull Shark, YOLO, and Public Sponsor badges!* 🎉
 
 </div>
+
 ---
 
 ### 📫 Let's Connect
