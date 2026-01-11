@@ -86,33 +86,7 @@ const enuka = {
 
 ### 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isumenuka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy"/>
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isumenuka&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" width="100%"/>
-</div>
-
----
-
-### 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-### 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31p5rqjdqenlo6dbkz2gtcl6y5ya&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing" />
-</div>
+Check out my [GitHub achievements](https://github.com/isumenuka?tab=achievements)! 🏆
 
 ---
 
@@ -126,10 +100,6 @@ const enuka = {
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@isum.online)
 
 </div>
-
----
-
-<div align="center">
 
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
