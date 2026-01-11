@@ -1,69 +1,140 @@
-<!-- Modern Glass UI GitHub README (Dark Theme) -->
+<div align="center">
 
-<div align="center" style="font-family: 'Segoe UI', sans-serif; background-color: #000000; padding: 40px; color: #ffffff; border-radius: 20px;">
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there!%20I'm%20Enuka&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-  <h1 style="font-size: 2.5em; margin-bottom: 10px;">👋 Hey, I'm <strong style="color: #fff;">isumenuka</strong></h1>
-  <p style="font-size: 1.1em; margin-bottom: 10px;">🚀 Developer. Designer. Dreamer.</p>
-  <p style="font-size: 1em;">Building sleek solutions with code and creativity.</p>
-  <p><a href="https://isum.online" style="color: #ffffff; font-weight: bold; text-decoration: underline;">🌐 isum.online</a></p>
+<!-- Dynamic Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Developer+%7C+Designer+%7C+Dreamer;Building+with+Code+%26+Creativity;ML+Enthusiast+%26+Problem+Solver;Always+Learning%2C+Always+Growing" alt="Typing SVG" /></a>
 
-</div>
+<br/>
 
-<br>
-
-<!-- GitHub Stats -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
-  <div style="background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 20px; width: 360px; color: #ffffff; backdrop-filter: blur(12px);">
-    <h2 style="text-align: center;">📊 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=isumenuka&show_icons=true&theme=graywhite&hide_border=true" style="width: 100%; border-radius: 12px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=isumenuka&theme=graywhite&hide_border=true" style="width: 100%; border-radius: 12px;" />
-  </div>
-
-  <div style="background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 16px; padding: 20px; width: 360px; color: #ffffff; backdrop-filter: blur(12px);">
-    <h2 style="text-align: center;">🧠 Top Languages</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumenuka&layout=compact&theme=graywhite&hide_border=true" style="width: 100%; border-radius: 12px;" />
-  </div>
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://isum.online">
+    <img src="https://img.shields.io/badge/🌐_Website-isum.online-00D9FF?style=for-the-badge&logoColor=white" alt="website"/>
+  </a>
+  <a href="https://github.com/isumenuka">
+    <img src="https://img.shields.io/badge/GitHub-isumenuka-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+</p>
 
 </div>
 
-<br>
+---
 
-<!-- Skills & Tech -->
-<div align="center" style="max-width: 900px; margin: auto; color: #ffffff;">
-  <h2>⚙️ Tech & Tools</h2>
-  <ul style="list-style: none; padding: 0;">
-    <li>🌐 Web: HTML, CSS, JavaScript, React</li>
-    <li>💾 Backend: Node.js, Python, Express</li>
-    <li>📦 Dev Tools: Git, VS Code, Figma</li>
-    <li>🧠 AI: OpenAI, Whisper, Gemini API</li>
-    <li>🎨 Design: UI/UX, responsive layouts, animations</li>
-  </ul>
+### 🚀 About Me
+
+```typescript
+const enuka = {
+    location: "🇱🇰 Sri Lanka",
+    role: "Developer & Designer",
+    interests: ["Machine Learning", "Web Development", "UI/UX Design"],
+    currentlyLearning: ["Deep Learning", "Advanced Java", "React"],
+    motto: "Code with purpose, design with passion"
+};
+```
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+#### 🤖 AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+#### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+
 </div>
 
-<br>
+---
 
-<!-- Experience & Contributions -->
-<div align="center" style="max-width: 900px; margin: auto; color: #ffffff;">
-  <h2>💼 Projects & Highlights</h2>
-  <ul style="list-style: none; padding: 0;">
-    <li>🔧 Built full-stack web apps with interactive UIs</li>
-    <li>📈 Automated content generation using AI</li>
-    <li>🌍 Deployed cloud-based services and APIs</li>
-    <li>📂 Maintained clean, scalable, and open-source codebases</li>
-  </ul>
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isumenuka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumenuka&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isumenuka&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
-<!-- Contact -->
-<div align="center" style="margin-top: 20px; color: #ffffff;">
-  <h2>📬 Let's Connect</h2>
-  <p>
-    <a href="https://isum.online" target="_blank" style="color: #ffffff; text-decoration: underline; margin: 0 8px;">🌐 Website</a> |
-    <a href="https://www.linkedin.com/in/isumenuka/" target="_blank" style="color: #ffffff; text-decoration: underline; margin: 0 8px;">LinkedIn</a> |
-    <a href="https://twitter.com/isumenuka" target="_blank" style="color: #ffffff; text-decoration: underline; margin: 0 8px;">Twitter</a> |
-    <a href="https://www.instagram.com/isumenuka/" target="_blank" style="color: #ffffff; text-decoration: underline; margin: 0 8px;">Instagram</a> |
-    <a href="mailto:contact@isum.online" target="_blank" style="color: #ffffff; text-decoration: underline; margin: 0 8px;">Email</a>
-  </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isumenuka&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+</div>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isumenuka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="trophy"/>
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isumenuka&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" width="100%"/>
+</div>
+
+---
+
+### 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+### 🎵 Currently Vibing To
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31p5rqjdqenlo6dbkz2gtcl6y5ya&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true" alt="Spotify Now Playing" />
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-isum.online-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://isum.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isumenuka)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/isumenuka)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@isum.online)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=isumenuka&color=58A6FF&style=flat-square)
+
 </div>
