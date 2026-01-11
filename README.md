@@ -79,6 +79,12 @@ const enuka = {
   </picture>
 </div>
 
+#### 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isumenuka&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+  </div>
+  
+
 ---
 
 ### 🏆 Achievements
