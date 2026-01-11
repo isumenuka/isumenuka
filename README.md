@@ -67,7 +67,8 @@ const enuka = {
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 88
+
 
 <div align="center">
   
@@ -86,6 +87,7 @@ const enuka = {
 <div align="center">
   
 <img src="https://streak-stats.demolab.com?user=isumenuka&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=45,0D1117,1E3A8A&ring=F97316&fire=F97316&currStreakLabel=58A6FF&sideNums=FFFFFF&sideLabels=58A6FF&dates=94A3B8" alt="GitHub Streak" 
+
 </div>
 
 <div align="center">
