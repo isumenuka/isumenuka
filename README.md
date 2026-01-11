@@ -67,7 +67,7 @@ const enuka = {
 
 ---
 
-### 📊 88
+### 📊 Github Statics
 
 
 <div align="center">
