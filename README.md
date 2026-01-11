@@ -70,24 +70,51 @@ const enuka = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isumenuka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumenuka&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=isumenuka&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&ring_color=58A6FF">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=isumenuka&show_icons=true&theme=default&hide_border=false">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=isumenuka&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isumenuka&layout=compact&langs_count=8&theme=default&hide_border=false">
+  </picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isumenuka&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=isumenuka&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF">
+    <img src="https://streak-stats.demolab.com?user=isumenuka&theme=default&hide_border=false" alt="GitHub Streak">
+  </picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isumenuka&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=isumenuka&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=58A6FF">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=isumenuka&theme=github-light&hide_border=false">
+  </picture>
 </div>
 
 ---
 
 ### 🏆 Achievements
 
-Check out my [GitHub achievements](https://github.com/isumenuka?tab=achievements)! 🏆
 
+<div align="center">
+
+<a href="https://github.com/isumenuka?tab=achievements">
+  <img src="https://img.shields.io/badge/🏆_View_My-GitHub_Achievements-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Achievements" />
+</a>
+
+<br/><br/>
+
+*Proud recipient of Quickdraw, Pull Shark, YOLO, and Public Sponsor badges!* 🎉
+
+</div>
 ---
 
 ### 📫 Let's Connect
