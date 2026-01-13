@@ -71,7 +71,7 @@ const enuka = {
 
 <div align="center">
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isumenuka&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
