@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://isum.online">
-    <img src="https://img.shields.io/badge/🌐_Website-isum.online-00D9FF?style=for-the-badge&logoColor=white" alt="website"/>
+    <img src="https://img.shields.io/badge/🌐_Website-isumenuka.me-00D9FF?style=for-the-badge&logoColor=white" alt="website"/>
   </a>
   <a href="https://github.com/isumenuka">
     <img src="https://img.shields.io/badge/GitHub-isumenuka-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
