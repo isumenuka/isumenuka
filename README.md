@@ -10,7 +10,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://isum.online">
+  <a href="https://isumenuka.me">
     <img src="https://img.shields.io/badge/🌐_Website-isumenuka.me-00D9FF?style=for-the-badge&logoColor=white" alt="website"/>
   </a>
   <a href="https://github.com/isumenuka">
@@ -102,10 +102,10 @@ const enuka = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-isum.online-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://isum.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-isumenuka.me-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://isumenuka.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isumenuka)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/isumenuka)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@isum.online)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@isumenuka.me)
 
 </div>
 
